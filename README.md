@@ -133,14 +133,13 @@ You can also use this project with Raycast by creating a bash script that lets y
 
 Now with this in place you can do this:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/your_video_id" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://github.com/user-attachments/assets/5f76acec-eaef-44f4-a241-817454a3c3d8
 
 ## Limitations
 
 - Requires a Wipro/Tuya bulb (not included)
 - Needs an OpenAI API key (also not included)
-- May occasionally hallucinate (the AI, not you—hopefully)
-- If your bulb starts flashing Morse code, blame the AI
+- May Occasionally Hallucinate: If your bulb starts flashing Morse code, blame the AI.
 
 ## Contributing
 
